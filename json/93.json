@@ -1,0 +1,53 @@
+{
+  "name": "BonKasino #93",
+  "symbol": "BK",
+  "description": "BonKasinoNFT is a Revenue share PFP project based around $BONK. The goal is to form a community of $BONK supporters who want to share passive income in $BONK.",
+  "seller_fee_basis_points": 500,
+  "image": "93.png",
+  "edition": 93,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Sky Blue"
+    },
+    {
+      "trait_type": "Normal Body",
+      "value": "Normal Body"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "Pink Tie"
+    },
+    {
+      "trait_type": "Normal Head",
+      "value": "Normal Head"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Tongue Out"
+    },
+    {
+      "trait_type": "Accessories",
+      "value": "Dead King Society Skull"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Phased"
+    }
+  ],
+  "properties": {
+    "files": [
+      {
+        "uri": "93.png",
+        "type": "image/png"
+      }
+    ],
+    "category": "image",
+    "creators": [
+      {
+        "address": "E5P2n5HKxJR9QLRN1TVWZBUyaL1FBtUacf26bbWc1NnY",
+        "share": 100
+      }
+    ]
+  }
+}
